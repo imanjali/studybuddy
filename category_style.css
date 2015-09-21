@@ -1,0 +1,166 @@
+
+body
+{
+	background-color:white;
+}
+#study
+{
+	    background-image: url(images/u.png);
+    height: 100;
+    border-bottom-style: double;
+}
+p
+{
+	font-family: algerian;
+    font-size: 59px;
+    margin-left: 17px;
+    padding-top: 14px;
+    color: white;
+    box-shadow: 0px 4px 89px white;
+    margin-right: 18px;
+    padding-left: 100px;
+}
+
+.c
+{
+	 border-radius: 100%;
+    border-style: dotted;
+    border-color: #F06;
+    width: 160px;
+    height: 87px;
+    /* padding: 22px; */
+    margin-top: 47px;
+    margin-left: 137px;
+    /* padding-top: 51px; */
+    font-family: algerian;
+    padding-top: 65px;
+}
+.c1
+{
+	       border-radius: 100%;
+    border-style: dotted;
+    border-color: #F06;
+    width: 116px;
+    height: 80px;
+    padding: 22px;
+    margin-top: -155px;
+    margin-left: 399px;
+    padding-top: 54px;
+    font-family: algerian;
+
+}
+.c2
+{
+	    border-radius: 100%;
+    border-style: dotted;
+    border-color: #F06;
+    width: 121px;
+    height: 71px;
+    padding: 22px;
+    margin-top: -168px;
+    margin-left: 660px;
+    padding-top: 73px;
+    font-family: algerian;
+
+
+}
+.c3
+{
+	  border-radius: 100%;
+    border-style: dotted;
+    border-color: #F06;
+    width: 121px;
+    height: 74px;
+    padding: 22px;
+    margin-top: -161px;
+    margin-left: 926px;
+    padding-top: 67px;
+    font-family: algerian;
+    padding-right: 36px;
+
+
+}
+#study1
+{
+	margin: 9px 0 0 22px;
+    font-family: tahoma;
+    font-size: 77px;
+    color: darkcyan;
+}
+.c4
+{border-radius: 100%;
+    border-style: dotted;
+    border-color: #F06;
+    width: 121px;
+    height: 87px;
+    padding: 22px;
+    margin-top: 53px;
+    margin-left: 252px;
+    padding-top: 51px;
+    font-family: algerian;
+}
+.c5
+{border-radius: 100%;
+    border-style: dotted;
+    border-color: #F06;
+    width: 121px;
+    height: 87px;
+    padding: 22px;
+    margin-top: -169px;
+    margin-left: 524px;
+    padding-top: 51px;
+    font-family: algerian;
+    padding-top: 64px;
+}
+.c6
+{
+	border-radius: 100%;
+    border-style: dotted;
+    border-color: #F06;
+    width: 121px;
+    height: 87px;
+    padding: 22px;
+    margin-top: -169px;
+    margin-left: 802px;
+    padding-top: 66px;
+    font-family: algerian;
+    font-size: 22px;
+}
+.c:hover,.c1:hover,.c2:hover,.c3:hover,.c4:hover,.c5:hover,.c6:hover
+{
+	box-shadow:0px 0px 14px black;
+font-size:17px;
+    background-color:orangered;
+	border-color:#C33;
+}
+heading
+{  
+  margin-top: -24px;
+ 
+  margin-left: -33px;
+      margin-top: -50px;
+    margin-left: 3px;
+    font-size: 67px;
+    color: whitesmoke;
+    font-family: tahoma; 
+font-size: 67px;
+
+}
+#link
+{
+	margin-top: -464px;
+    margin-left: 1129px;
+    font-family: calibri;
+    font-size: 25px;
+    color: black;
+    border-style: hidden;
+    background-color: orangered;
+    padding-left: 10px;
+    padding-bottom: 6px;
+    border-radius: 8px 8px;
+
+}
+a#l
+{
+	    color: white;
+}

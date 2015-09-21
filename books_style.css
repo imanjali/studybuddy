@@ -1,0 +1,22 @@
+body
+{
+background-image: url(n10.jpg);
+background-size:cover;
+}
+form
+{
+line-height: 2;
+margin-top: 52px;
+margin-left: 679px;
+outline-style: groove;
+outline-color: bisque;
+margin-right: 416px;
+padding: 33px;
+background-color: transparent;
+}
+h1
+{
+margin: 49px 0 0 677px;
+font-size: 41px;
+color: floralwhite;
+}

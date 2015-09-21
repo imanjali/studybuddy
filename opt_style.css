@@ -1,0 +1,58 @@
+body
+{
+  background-image:url(images/check.jpg);
+  background-size:cover;
+}
+#study
+{background-image: url(images/u.png);
+    height: 100;
+    border-bottom-style: double;
+    margin-top: -53px;
+    height: 108px;
+}
+p#head
+{
+	font-family: algerian;
+    font-size: 59px;
+    margin-left: 17px;
+    padding-top: 14px;
+    color: white;
+    box-shadow: 0px 4px 89px white;
+    margin-right: 18px;
+    padding-left: 100px;
+}
+
+.sub
+{
+	  font-size: 45px;
+  font-family: tahoma;
+}
+#s
+{
+    border-style: solid;
+    border-bottom-style: double;
+    border-bottom-width: 15px;
+    padding: 14px;
+    border-color: black;
+    color: white;
+    margin-left: 350px;
+    box-shadow: 0px 0px 19px black;
+    background-color: orangered;
+    /* outline-style: dotted; */
+    /* outline-width: 3px; */
+    outline-color: white;
+    line-height: 2;
+  
+}
+#s:hover
+{
+	border-radius:50%;
+	outline-color:transparent;
+      }
+p
+{
+	  font-family: calibri;
+    font-size: 44px;
+    margin-bottom: -62px;
+    margin-left: 51px;
+}

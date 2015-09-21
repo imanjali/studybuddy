@@ -1,0 +1,26 @@
+iframe
+{
+    margin-top: 22px;
+  width: 1133px;
+  height: 1500px;
+  margin-left: 181px;
+}
+body
+{
+  background-image:url(images/rest.jpg);
+  background-size:cover;
+}
+.heading
+{
+	font-family: tahoma;
+  font-size: 51px;
+  padding: 8px;
+  background-color: transparent;
+  border-style: double;
+  border-width: 8px;
+  border-color: deepskyblue;
+  border-radius: 0px 58px;
+  color: peachpuff;
+  padding-left: 40px;
+  box-shadow: 0px 0px 7px white;
+}

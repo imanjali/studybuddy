@@ -1,0 +1,153 @@
+p
+{
+	font-family: algerian;
+    font-size: 59px;
+    margin-left: 17px;
+    padding-top: 14px;
+    color: white;
+    box-shadow: 0px 4px 89px white;
+    margin-right: 18px;
+    padding-left: 100px;
+}
+
+#study
+{
+	    background-image: url(images/u.png);
+    height: 100;
+    border-bottom-style: double;
+}
+h1#b
+{
+	margin-left: 454px;
+    font-family: calibri;
+    font-size: 48px;
+    color: white;
+    border-style: solid;
+    background-color: orangered;
+    padding-left: 15px;
+}
+#a
+{
+	margin-left: 459px;
+    margin-top: -36px;
+    font-family: tahoma;
+}
+#a2
+{
+	margin-left: 459px;
+    margin-top: 0px;
+    font-family: tahoma;
+}
+h3
+{
+
+	  margin-left: 696px;
+    margin-top: 13px;
+    color: white;
+    font-family: arial;
+    text-decoration: overline;
+    font-size: 22px;
+    box-shadow: 0px 0px 11px black;
+    margin-right: 515px;
+    padding-left: 36px;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    background-color: black;
+    border-radius: 9px 9px;
+}
+.s1
+{
+	margin-top: -378px;
+    margin-left: 1042px;
+    border-radius: 5px 5px;
+    text-align: center;
+    font-family: calibri;
+    font-size: 14px;
+}
+.s2
+{
+margin-top: -340px;
+    margin-left: 1043px;
+    border-radius: 5px 5px;
+    text-align: center;
+    font-family: calibri;
+    font-size: 14px;
+}
+.b1
+{
+	margin-top: -362px;
+    margin-left: 1205px;
+    width: 72px;
+    color: white;
+    background-color: black;
+    border-style: solid;
+    font-size: 15px;
+    height: 33px;
+}
+
+#a3
+{
+	margin-left: 459px;
+    font-family: tahoma;
+}
+.sign_inner:hover
+{
+	background-color:#F30;
+
+}
+.sign_inner
+{border-style: solid;
+    margin-left: 38px;
+    margin-right: 994px;
+    padding-left: 69px;
+    border-radius: 34px 34px;
+    border-color: gray;
+    margin-top: -529px;
+}
+#i
+{
+	    margin-left: 1058px;
+    margin-top: -159px;
+}
+#i2
+{
+	margin-top: -520px;
+    margin-left: 338px;
+    margin-bottom: 2px;margin-top: -334px;
+    margin-left: 355px;
+    margin-bottom: 2px;
+}
+
+#demo
+{line-height: 2;
+    margin-bottom: 6px;
+    border-style: solid;
+    border-color: gray;
+    width: 211px;
+    padding-left: 56px;
+    margin-left: -27px;
+    font-size: 15px;
+    font-family: aharoni;
+}
+#but
+{
+
+	   line-height: 2;
+    margin-top: 10px;
+    margin-bottom: 7px;
+    margin-left: 28px;
+    border-style: solid;
+    width: 92px;
+    background-color: black;
+    font-family: aharoni;
+    color: white;
+    font-size: 19px;
+}
+.head
+{
+	font-family: algerian;
+    font-size: 38px;
+    margin-bottom: -15px;
+    margin-left: 11px;
+    text-decoration: overline;
+}
